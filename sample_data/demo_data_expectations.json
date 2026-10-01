@@ -1,0 +1,47 @@
+{
+  "seed": 20260921,
+  "base_business_rows": 120,
+  "total_rows_including_duplicates_and_blanks": 131,
+  "total_columns": 13,
+  "exact_duplicate_business_rows": 8,
+  "fully_blank_rows": 3,
+  "fully_blank_columns": [
+    "Internal Notes"
+  ],
+  "missing_values_in_base_rows": {
+    "Customer Name": 3,
+    "EMAIL Address": 5,
+    "City ": 4,
+    "Order Status": 3
+  },
+  "outer_whitespace_cells_in_base_rows": 25,
+  "known_case_variant_columns": [
+    "City ",
+    "Product Category",
+    "Sales Channel",
+    "Order Status"
+  ],
+  "numeric_review_values": [
+    " 4 ",
+    "3",
+    "unknown",
+    -2,
+    75,
+    " 34.90 ",
+    "29,90",
+    "not available",
+    "10%"
+  ],
+  "date_review_values": [
+    "31/02/2026",
+    "not recorded",
+    "03/04/2026",
+    "04/05/2026",
+    "05/06/2026"
+  ],
+  "notes": [
+    "Duplicate count excludes fully blank rows.",
+    "Missing-value counts refer to the 120 base business rows before duplicate insertion.",
+    "Ambiguous dates and suspicious numeric values must be flagged rather than silently changed."
+  ]
+}
