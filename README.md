@@ -92,7 +92,7 @@ An optional UTF-8 CSV export contains only the cleaned dataset.
 ### Installation
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/simeonparaskeva9975-del/excel-csv-cleaner.git
 cd excel-csv-cleaner
 
 py -3.12 -m venv .venv
@@ -177,3 +177,4 @@ python -m unittest discover -s tests -v
 ## License
 
 This project is available under the MIT License.
+
